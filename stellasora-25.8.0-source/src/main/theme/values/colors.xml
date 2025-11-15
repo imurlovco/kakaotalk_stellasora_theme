@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- 어피치 -->
+
     <!-- Header : 메인탭 헤더 타이틀 -->
-    <color name="theme_header_color">#FFFFFF</color>                            <!--Default-->
+    <color name="theme_header_color">#664242</color>                            <!--Default-->
 
     <!-- Section Title : 섹션 헤더 타이틀 -->
     <color name="theme_section_title_color">#F66C6C</color>                     <!--Default-->
 
     <!-- Title : 이름 -->
-    <color name="theme_title_color">#FFFFFF</color>                             <!--Default-->
-    <color name="theme_title_pressed_color">#EDF6F6</color>                     <!--Pressed-->
+    <color name="theme_title_color">#664242</color>                             <!--Default-->
+    <color name="theme_title_pressed_color">#B06B6B</color>                     <!--Pressed-->
 
     <!-- Paragraph : 라스트메세지 -->
-    <color name="theme_paragraph_color">#FFFFFF</color>                         <!--Default-->
-    <color name="theme_paragraph_pressed_color">#EDF6F6</color>                 <!--Pressed-->
+    <color name="theme_paragraph_color">#805959</color>                         <!--Default-->
+    <color name="theme_paragraph_pressed_color">#B06B6B</color>                 <!--Pressed-->
 
     <!-- Description : 상태메세지 -->
-    <color name="theme_description_color">#FFFFFF</color>                       <!--Default-->
-    <color name="theme_description_pressed_color">#3F868A</color>               <!--Pressed-->
+    <color name="theme_description_color">#805959</color>                       <!--Default-->
+    <color name="theme_description_pressed_color">#B06B6B</color>               <!--Pressed-->
 
     <!-- Feature : 서비스/피처별 컬러 -->
 
@@ -32,9 +34,9 @@
 
     <!-- Background -->
     <!-- 기본 -->
-    <color name="theme_background_color">#62D1D7</color>
+    <color name="theme_background_color">#FFDEDE</color>
     <!-- 채팅방 -->
-    <color name="theme_chatroom_background_color">#62D1D7</color>
+    <color name="theme_chatroom_background_color">#FFDEDE</color>
     <!-- 잠금화면 -->
     <color name="theme_passcode_background_color">#FCC5C5</color>
 
@@ -42,22 +44,22 @@
     <!-- Cell Color -->
 
     <!-- Header : 메인탭 헤더 타이틀 셀 -->
-    <color name="theme_header_cell_color">#62D1D7</color>
+    <color name="theme_header_cell_color">#FFDEDE</color>
 
     <!-- Body : 기본리스트 & 콘텐츠영역 셀 -->
     <color name="theme_body_cell_color">#00FFDEDE</color>
-    <color name="theme_body_cell_pressed_color">#EDF6F6</color>
+    <color name="theme_body_cell_pressed_color">#FFB3B3</color>
     <color name="theme_body_cell_border_color">#26664242</color>
 
     <!-- Body Secondary : 발견 & 더보기 콘텐츠 영역 셀 -->
-    <color name="theme_body_secondary_cell_color">#62D1D7</color>
+    <color name="theme_body_secondary_cell_color">#FFDEDE</color>
 
     <!-- Tab : 메인탭 탭바 -->
-    <color name="theme_maintab_cell_color">#265053</color>
+    <color name="theme_maintab_cell_color">#00FFFFFF</color>
     <color name="theme_tab_lightbannerbadge_background_color">#664242</color>
 
     <!-- Tab : 배너 -->
-    <color name="theme_tab_bannerbadge_background_color">#265053</color>
+    <color name="theme_tab_bannerbadge_background_color">#664142</color>
 
 
     <!-- Elements Color -->
